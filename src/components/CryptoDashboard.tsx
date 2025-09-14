@@ -20,8 +20,6 @@ const CryptoDashboard = () => {
                 </Grid>
             ))}
             </Grid>
-
-
         </Container>
 
     )
